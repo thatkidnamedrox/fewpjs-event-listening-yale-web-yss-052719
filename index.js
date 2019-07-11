@@ -1,4 +1,4 @@
 function addingEventListener() {
   const input = document.getElementById('input');
-  .addEventListener('')
+  input.addEventListener('')
 }
